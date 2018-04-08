@@ -1,2 +1,2 @@
 # Google-DSC-Workshop
-A workshop conducted by me to educate students of my college about web development as a part Google's teaching mission.
+One of the workshop session conducted by me to educate students of my college about web development / php as a part Google's teaching mission.
